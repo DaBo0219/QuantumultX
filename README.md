@@ -2,7 +2,7 @@
 nzw9314 backup time : April 11, 2020
 
 # 重写引用 
-## 重写集合  
+## 1.重写集合  
 <https://raw.githubusercontent.com/pm936/QuantumultX/master/wc.conf>
 
 ## 2.去广告集合  
